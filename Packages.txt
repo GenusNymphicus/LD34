@@ -1,0 +1,12 @@
+package GAME {
+  texture { background:         "../Resources/Textures/Background.png" }
+  texture { character:         "../Resources/Textures/Character.png" }  
+  texture { character2:         "../Resources/Textures/Character2.png" }
+  texture { characterIdle:         "../Resources/Textures/CharacterIdle.png" }
+  texture { tile:         "../Resources/Textures/GroundTile.png" }
+ texture { slime:         "../Resources/Textures/slime.png" }
+
+
+font { font: "../Resources/SubTitle.ttf" size: 36 }
+}
+

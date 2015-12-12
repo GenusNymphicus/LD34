@@ -1,0 +1,1 @@
+/usr/bin/cc     -Wall    -Wall  -g    CMakeFiles/reopen.dir/reopen.c.o  -o /home/kevin/Desktop/Projects/C++/CockatooEngine/build/reopen -rdynamic /home/kevin/Desktop/Projects/C++/CockatooEngine/build/libglfw3.a -lGLU -lX11 -lpthread -lrt -lXrandr -lXi -lXxf86vm -lrt -lm -lGL -lXrandr -lXi -lXxf86vm -lm -lGL 

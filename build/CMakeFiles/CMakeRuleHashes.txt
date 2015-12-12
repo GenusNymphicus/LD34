@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+404ee41bffe210eb7262f1f1c06e9e91 Cockatoo/external/glfw/CMakeFiles/uninstall
+3283be4642e15cece51ff3b312fbc55b Cockatoo/external/glfw/docs/CMakeFiles/docs
