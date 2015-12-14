@@ -407,8 +407,6 @@ CMakeFiles/LD34.dir/home/kevin/Desktop/Projects/C++/CockatooEngine/src/Utility/P
 CMakeFiles/LD34.dir/home/kevin/Desktop/Projects/C++/CockatooEngine/src/Utility/Time.cpp.o: /home/kevin/Desktop/Projects/C++/CockatooEngine/include/Utility/Time.h
 CMakeFiles/LD34.dir/home/kevin/Desktop/Projects/C++/CockatooEngine/src/Utility/Time.cpp.o: /home/kevin/Desktop/Projects/C++/CockatooEngine/src/Utility/Time.cpp
 
-CMakeFiles/LD34.dir/src/main.cpp.o: ../../CyberRush/src/GameEntity.h
-CMakeFiles/LD34.dir/src/main.cpp.o: ../../CyberRush/src/Monster.h
 CMakeFiles/LD34.dir/src/main.cpp.o: /home/kevin/Desktop/Projects/C++/CockatooEngine/external/glew/include/GL/glew.h
 CMakeFiles/LD34.dir/src/main.cpp.o: /home/kevin/Desktop/Projects/C++/CockatooEngine/external/glm/glm/common.hpp
 CMakeFiles/LD34.dir/src/main.cpp.o: /home/kevin/Desktop/Projects/C++/CockatooEngine/external/glm/glm/detail/_fixes.hpp
@@ -526,12 +524,16 @@ CMakeFiles/LD34.dir/src/main.cpp.o: /home/kevin/Desktop/Projects/C++/CockatooEng
 CMakeFiles/LD34.dir/src/main.cpp.o: /home/kevin/Desktop/Projects/C++/CockatooEngine/include/Input/Keyboard.h
 CMakeFiles/LD34.dir/src/main.cpp.o: /home/kevin/Desktop/Projects/C++/CockatooEngine/include/Input/Mouse.h
 CMakeFiles/LD34.dir/src/main.cpp.o: /home/kevin/Desktop/Projects/C++/CockatooEngine/include/Utility/FPSCounter.h
+CMakeFiles/LD34.dir/src/main.cpp.o: /home/kevin/Desktop/Projects/C++/CockatooEngine/include/Utility/Time.h
 CMakeFiles/LD34.dir/src/main.cpp.o: /home/kevin/Desktop/Projects/C++/CockatooEngine/src/Audio/AudioManager.cpp
 CMakeFiles/LD34.dir/src/main.cpp.o: /home/kevin/Desktop/Projects/C++/CockatooEngine/src/Graphics/RenderEngine.cpp
 CMakeFiles/LD34.dir/src/main.cpp.o: ../src/GameScene.h
-CMakeFiles/LD34.dir/src/main.cpp.o: ../src/Level/ELayer.h
-CMakeFiles/LD34.dir/src/main.cpp.o: ../src/Level/Level.h
-CMakeFiles/LD34.dir/src/main.cpp.o: ../src/Level/LevelManager.h
-CMakeFiles/LD34.dir/src/main.cpp.o: ../src/Level/MonsterSpawn.h
+CMakeFiles/LD34.dir/src/main.cpp.o: ../src/Level.h
+CMakeFiles/LD34.dir/src/main.cpp.o: ../src/Monster.h
+CMakeFiles/LD34.dir/src/main.cpp.o: ../src/MonsterData.h
+CMakeFiles/LD34.dir/src/main.cpp.o: ../src/MonsterSpawner.h
+CMakeFiles/LD34.dir/src/main.cpp.o: ../src/Player.h
+CMakeFiles/LD34.dir/src/main.cpp.o: ../src/WeaponData.h
+CMakeFiles/LD34.dir/src/main.cpp.o: ../src/WeaponFactory.h
 CMakeFiles/LD34.dir/src/main.cpp.o: ../src/main.cpp
 

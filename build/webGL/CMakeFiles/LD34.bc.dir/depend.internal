@@ -642,8 +642,6 @@ CMakeFiles/LD34.bc.dir/home/kevin/Desktop/Projects/C++/CockatooEngine/src/Utilit
  /home/kevin/Desktop/Projects/C++/CockatooEngine/include/Utility/Time.h
  /home/kevin/Desktop/Projects/C++/CockatooEngine/src/Utility/Time.cpp
 CMakeFiles/LD34.bc.dir/src/main.cpp.o
- ../../../CyberRush/src/GameEntity.h
- ../../../CyberRush/src/Monster.h
  /home/kevin/Desktop/Projects/C++/CockatooEngine/external/glm/glm/common.hpp
  /home/kevin/Desktop/Projects/C++/CockatooEngine/external/glm/glm/detail/_fixes.hpp
  /home/kevin/Desktop/Projects/C++/CockatooEngine/external/glm/glm/detail/_swizzle.hpp
@@ -760,13 +758,17 @@ CMakeFiles/LD34.bc.dir/src/main.cpp.o
  /home/kevin/Desktop/Projects/C++/CockatooEngine/include/Input/Keyboard.h
  /home/kevin/Desktop/Projects/C++/CockatooEngine/include/Input/Mouse.h
  /home/kevin/Desktop/Projects/C++/CockatooEngine/include/Utility/FPSCounter.h
+ /home/kevin/Desktop/Projects/C++/CockatooEngine/include/Utility/Time.h
  /home/kevin/Desktop/Projects/C++/CockatooEngine/src/Audio/AudioManager.cpp
  /home/kevin/Desktop/Projects/C++/CockatooEngine/src/Graphics/RenderEngine.cpp
  /home/kevin/Desktop/Projects/C++/LD34/src/GameScene.h
- /home/kevin/Desktop/Projects/C++/LD34/src/Level/ELayer.h
- /home/kevin/Desktop/Projects/C++/LD34/src/Level/Level.h
- /home/kevin/Desktop/Projects/C++/LD34/src/Level/LevelManager.h
- /home/kevin/Desktop/Projects/C++/LD34/src/Level/MonsterSpawn.h
+ /home/kevin/Desktop/Projects/C++/LD34/src/Level.h
+ /home/kevin/Desktop/Projects/C++/LD34/src/Monster.h
+ /home/kevin/Desktop/Projects/C++/LD34/src/MonsterData.h
+ /home/kevin/Desktop/Projects/C++/LD34/src/MonsterSpawner.h
+ /home/kevin/Desktop/Projects/C++/LD34/src/Player.h
+ /home/kevin/Desktop/Projects/C++/LD34/src/WeaponData.h
+ /home/kevin/Desktop/Projects/C++/LD34/src/WeaponFactory.h
  /home/kevin/Desktop/Projects/C++/LD34/src/main.cpp
  /home/kevin/Desktop/emsdk_portable/emscripten/master/system/include/AL/al.h
  /home/kevin/Desktop/emsdk_portable/emscripten/master/system/include/AL/alc.h

@@ -1,4 +1,19 @@
 package GAME {
+  texture { Background:         "../Resources/Textures/Background.png" }
+  texture { SoulMeter:         "../Resources/Textures/SoulMeter.png" }
+  texture { SoulFill:         "../Resources/Textures/SoulFill.png" }
+  texture { Bob:         "../Resources/Textures/bob.png" }
+  texture { Hero:         "../Resources/Textures/Hero.png" }
+  texture { winScreen:         "../Resources/Textures/winScreen.png" } 
+  texture { loseScreen:         "../Resources/Textures/loseScreen.png" }
+  texture { menuScreen:         "../Resources/Textures/menuScreen.png" }
+
+ audio { win:			 "../Resources/Audio/win.wav" }	
+ audio { upgrade:			 "../Resources/Audio/upgrade.wav" }
+ audio { lose:			 "../Resources/Audio/lose.wav" }
+ audio { hit:			 "../Resources/Audio/hit.wav" }
+ audio { intro:			 "../Resources/Audio/intro.wav" }
 
 }
+
 

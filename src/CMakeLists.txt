@@ -2,4 +2,3 @@ set(SOURCE_FILES ${SOURCE_FILES}
    ${CMAKE_CURRENT_SOURCE_DIR}/main.cpp
 PARENT_SCOPE)
 
-add_subdirectory(Level)

@@ -34,3 +34,6 @@ Project Target=LD34,LD34
 Use External Terminal=false
 Working Directory=
 isExecutable=false
+
+[Project]
+VersionControlSupport=kdevgit

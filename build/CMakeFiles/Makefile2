@@ -1259,31 +1259,16 @@ Cockatoo/src/Audio/preinstall:
 # Directory level rules for directory src
 
 # Convenience name for "all" pass in the directory.
-src/all: src/Level/all
+src/all:
 .PHONY : src/all
 
 # Convenience name for "clean" pass in the directory.
-src/clean: src/Level/clean
+src/clean:
 .PHONY : src/clean
 
 # Convenience name for "preinstall" pass in the directory.
-src/preinstall: src/Level/preinstall
+src/preinstall:
 .PHONY : src/preinstall
-
-#=============================================================================
-# Directory level rules for directory src/Level
-
-# Convenience name for "all" pass in the directory.
-src/Level/all:
-.PHONY : src/Level/all
-
-# Convenience name for "clean" pass in the directory.
-src/Level/clean:
-.PHONY : src/Level/clean
-
-# Convenience name for "preinstall" pass in the directory.
-src/Level/preinstall:
-.PHONY : src/Level/preinstall
 
 #=============================================================================
 # Special targets to cleanup operation of make.
