@@ -1,5 +1,0 @@
-package GAME {
-  texture { background:         "../Resources/Textures/Background.png" }
-
-}
-
